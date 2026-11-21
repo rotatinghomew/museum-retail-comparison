@@ -1,0 +1,1387 @@
+{
+  "visits": [
+    {
+      "id": "e0",
+      "visitor": null,
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": false
+    },
+    {
+      "id": "e1",
+      "visitor": "v1",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": true
+    },
+    {
+      "id": "e2",
+      "visitor": "v2",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": true
+    },
+    {
+      "id": "e3",
+      "visitor": "v3",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": true
+    },
+    {
+      "id": "e4",
+      "visitor": "v4",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": true
+    },
+    {
+      "id": "e5",
+      "visitor": "v5",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": true
+    },
+    {
+      "id": "e6",
+      "visitor": "v6",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": true
+    },
+    {
+      "id": "e7",
+      "visitor": "v7",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-01",
+      "observed": true
+    },
+    {
+      "id": "e8",
+      "visitor": "v8",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e9",
+      "visitor": "v9",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e10",
+      "visitor": "v10",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e11",
+      "visitor": null,
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e12",
+      "visitor": "v12",
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e13",
+      "visitor": "v13",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": false
+    },
+    {
+      "id": "e14",
+      "visitor": "v14",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e15",
+      "visitor": "v15",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e16",
+      "visitor": "v16",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e17",
+      "visitor": "v17",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e18",
+      "visitor": "v18",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e19",
+      "visitor": "v19",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e20",
+      "visitor": "v20",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e21",
+      "visitor": "v21",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e22",
+      "visitor": null,
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e23",
+      "visitor": "v23",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-03",
+      "observed": true
+    },
+    {
+      "id": "e24",
+      "visitor": "v24",
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": true
+    },
+    {
+      "id": "e25",
+      "visitor": "v25",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": true
+    },
+    {
+      "id": "e26",
+      "visitor": "v26",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": false
+    },
+    {
+      "id": "e27",
+      "visitor": "v27",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": true
+    },
+    {
+      "id": "e28",
+      "visitor": "v28",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": true
+    },
+    {
+      "id": "e29",
+      "visitor": "v29",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": true
+    },
+    {
+      "id": "e30",
+      "visitor": "v30",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": true
+    },
+    {
+      "id": "e31",
+      "visitor": "v31",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-04",
+      "observed": true
+    },
+    {
+      "id": "e32",
+      "visitor": "v32",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": true
+    },
+    {
+      "id": "e33",
+      "visitor": null,
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": true
+    },
+    {
+      "id": "e34",
+      "visitor": "v34",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": true
+    },
+    {
+      "id": "e35",
+      "visitor": "v35",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": true
+    },
+    {
+      "id": "e36",
+      "visitor": "v36",
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": true
+    },
+    {
+      "id": "e37",
+      "visitor": "v37",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": true
+    },
+    {
+      "id": "e38",
+      "visitor": "v38",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": true
+    },
+    {
+      "id": "e39",
+      "visitor": "v39",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-05",
+      "observed": false
+    },
+    {
+      "id": "e40",
+      "visitor": "v40",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e41",
+      "visitor": "v41",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e42",
+      "visitor": "v42",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e43",
+      "visitor": "v43",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e44",
+      "visitor": null,
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e45",
+      "visitor": "v45",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e46",
+      "visitor": "v46",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e47",
+      "visitor": "v47",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-06",
+      "observed": true
+    },
+    {
+      "id": "e48",
+      "visitor": "v48",
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": true
+    },
+    {
+      "id": "e49",
+      "visitor": "v49",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": true
+    },
+    {
+      "id": "e50",
+      "visitor": "v50",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": true
+    },
+    {
+      "id": "e51",
+      "visitor": "v51",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": true
+    },
+    {
+      "id": "e52",
+      "visitor": "v52",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": false
+    },
+    {
+      "id": "e53",
+      "visitor": "v53",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": true
+    },
+    {
+      "id": "e54",
+      "visitor": "v54",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": true
+    },
+    {
+      "id": "e55",
+      "visitor": null,
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-07",
+      "observed": true
+    },
+    {
+      "id": "e56",
+      "visitor": "v56",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e57",
+      "visitor": "v57",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e58",
+      "visitor": "v58",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e59",
+      "visitor": "v59",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e60",
+      "visitor": "v60",
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e61",
+      "visitor": "v61",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e62",
+      "visitor": "v62",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e63",
+      "visitor": "v63",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-08",
+      "observed": true
+    },
+    {
+      "id": "e64",
+      "visitor": "v64",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": true
+    },
+    {
+      "id": "e65",
+      "visitor": "v65",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": false
+    },
+    {
+      "id": "e66",
+      "visitor": null,
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": true
+    },
+    {
+      "id": "e67",
+      "visitor": "v67",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": true
+    },
+    {
+      "id": "e68",
+      "visitor": "v68",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": true
+    },
+    {
+      "id": "e69",
+      "visitor": "v69",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": true
+    },
+    {
+      "id": "e70",
+      "visitor": "v70",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": true
+    },
+    {
+      "id": "e71",
+      "visitor": "v71",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-09",
+      "observed": true
+    },
+    {
+      "id": "e72",
+      "visitor": "v72",
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": true
+    },
+    {
+      "id": "e73",
+      "visitor": "v73",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": true
+    },
+    {
+      "id": "e74",
+      "visitor": "v74",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": true
+    },
+    {
+      "id": "e75",
+      "visitor": "v75",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": true
+    },
+    {
+      "id": "e76",
+      "visitor": "v76",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": true
+    },
+    {
+      "id": "e77",
+      "visitor": null,
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": true
+    },
+    {
+      "id": "e78",
+      "visitor": "v78",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": false
+    },
+    {
+      "id": "e79",
+      "visitor": "v79",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-10",
+      "observed": true
+    },
+    {
+      "id": "e80",
+      "visitor": "v80",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e81",
+      "visitor": "v81",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e82",
+      "visitor": "v82",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e83",
+      "visitor": "v83",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e84",
+      "visitor": "v84",
+      "shop": "馆西",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e85",
+      "visitor": "v85",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e86",
+      "visitor": "v86",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e87",
+      "visitor": "v87",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-11",
+      "observed": true
+    },
+    {
+      "id": "e88",
+      "visitor": null,
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": true
+    },
+    {
+      "id": "e89",
+      "visitor": "v89",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": true
+    },
+    {
+      "id": "e90",
+      "visitor": "v90",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": true
+    },
+    {
+      "id": "e91",
+      "visitor": "v91",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": false
+    },
+    {
+      "id": "e92",
+      "visitor": "v92",
+      "shop": "馆东",
+      "slot": "休息日",
+      "segment": "常客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": true
+    },
+    {
+      "id": "e93",
+      "visitor": "v93",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": true
+    },
+    {
+      "id": "e94",
+      "visitor": "v94",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": true
+    },
+    {
+      "id": "e95",
+      "visitor": "v95",
+      "shop": "馆东",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-12",
+      "observed": true
+    },
+    {
+      "id": "e96",
+      "visitor": "v1",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-02",
+      "observed": true
+    },
+    {
+      "id": "e97",
+      "visitor": "later",
+      "shop": "馆西",
+      "slot": "工作日",
+      "segment": "游客",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "exposed_on": "2026-07-20",
+      "observed": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "visitor": "v1",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-03",
+      "paid": 5900,
+      "refund_on": "2026-07-06"
+    },
+    {
+      "id": "o6",
+      "visitor": "v6",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-03",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o16",
+      "visitor": "v16",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-05",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o21",
+      "visitor": "v21",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-05",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o26",
+      "visitor": "v26",
+      "sku": "陶语-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-06",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o31",
+      "visitor": "v31",
+      "sku": "陶语-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-06",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o36",
+      "visitor": "v36",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-07",
+      "paid": 5900,
+      "refund_on": "2026-07-10"
+    },
+    {
+      "id": "o41",
+      "visitor": "v41",
+      "sku": "陶语-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-08",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o46",
+      "visitor": "v46",
+      "sku": "陶语-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-08",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o51",
+      "visitor": "v51",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-09",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o56",
+      "visitor": "v56",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-10",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o61",
+      "visitor": "v61",
+      "sku": "陶语-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-10",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o71",
+      "visitor": "v71",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-11",
+      "paid": 5900,
+      "refund_on": "2026-07-14"
+    },
+    {
+      "id": "o76",
+      "visitor": "v76",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-12",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o81",
+      "visitor": "v81",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-13",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o86",
+      "visitor": "v86",
+      "sku": "纸域-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-13",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o91",
+      "visitor": "v91",
+      "sku": "陶语-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-14",
+      "paid": 5900,
+      "refund_on": null
+    },
+    {
+      "id": "o97",
+      "visitor": "later",
+      "sku": "陶语-v1",
+      "shop": "网店",
+      "sold_on": "2026-07-21",
+      "paid": 5900,
+      "refund_on": null
+    }
+  ],
+  "listings": [
+    {
+      "shop": "馆东",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "starts": "2026-07-01",
+      "ends": "2026-07-31",
+      "orderable": true
+    },
+    {
+      "shop": "馆东",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "starts": "2026-07-01",
+      "ends": "2026-07-31",
+      "orderable": true
+    },
+    {
+      "shop": "馆西",
+      "sku": "纸域-v1",
+      "band": "59档",
+      "starts": "2026-07-01",
+      "ends": "2026-07-31",
+      "orderable": true
+    },
+    {
+      "shop": "馆西",
+      "sku": "陶语-v1",
+      "band": "59档",
+      "starts": "2026-07-01",
+      "ends": "2026-07-31",
+      "orderable": true
+    }
+  ],
+  "target": [
+    {
+      "shop": "合作南店",
+      "segment": "游客",
+      "slot": "工作日",
+      "mass": 55
+    },
+    {
+      "shop": "合作南店",
+      "segment": "常客",
+      "slot": "休息日",
+      "mass": 45
+    }
+  ],
+  "intake": [
+    {
+      "as_of": "2026-07-23",
+      "purchase_days": 4,
+      "refund_days": 8
+    }
+  ],
+  "windows": [
+    {
+      "id": "W1",
+      "shop": "合作南店",
+      "on": "2026-07-25",
+      "segment": "常客",
+      "slot": "休息日",
+      "positions": 2
+    },
+    {
+      "id": "W2",
+      "shop": "合作南店",
+      "on": "2026-08-01",
+      "segment": "常客",
+      "slot": "休息日",
+      "positions": 2
+    },
+    {
+      "id": "W3",
+      "shop": "合作南店",
+      "on": "2026-08-03",
+      "segment": "游客",
+      "slot": "工作日",
+      "positions": 2
+    }
+  ],
+  "booking": [
+    {
+      "id": "B1",
+      "window": "W1",
+      "sku": "纸域-v1",
+      "units": 1,
+      "confirmed_on": "2026-07-19"
+    },
+    {
+      "id": "B2",
+      "window": "W1",
+      "sku": "陶语-v1",
+      "units": 1,
+      "confirmed_on": "2026-07-19"
+    }
+  ],
+  "availability": [
+    {
+      "window": "W1",
+      "sku": "纸域-v1",
+      "available_units": 1,
+      "known_on": "2026-07-18"
+    },
+    {
+      "window": "W1",
+      "sku": "陶语-v1",
+      "available_units": 1,
+      "known_on": "2026-07-18"
+    },
+    {
+      "window": "W2",
+      "sku": "纸域-v1",
+      "available_units": 1,
+      "known_on": "2026-07-18"
+    },
+    {
+      "window": "W2",
+      "sku": "陶语-v1",
+      "available_units": 1,
+      "known_on": "2026-07-18"
+    },
+    {
+      "window": "W3",
+      "sku": "纸域-v1",
+      "available_units": 1,
+      "known_on": "2026-07-18"
+    },
+    {
+      "window": "W3",
+      "sku": "陶语-v1",
+      "available_units": 1,
+      "known_on": "2026-07-18"
+    },
+    {
+      "window": "W1",
+      "sku": "陶语-v1",
+      "available_units": 0,
+      "known_on": "2026-07-21"
+    }
+  ]
+}
